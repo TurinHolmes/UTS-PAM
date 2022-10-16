@@ -1,7 +1,8 @@
 {
   "expo": {
-    "name": "UTS-PAM",
-    "slug": "UTS-PAM",
+    "name": "uts-pam",
+    "slug": "uts-pam",
+    "owner": "almawerdi",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
